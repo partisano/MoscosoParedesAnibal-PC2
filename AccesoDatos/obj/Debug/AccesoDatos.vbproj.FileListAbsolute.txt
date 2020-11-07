@@ -1,0 +1,25 @@
+E:\2020\USS_2020_2\1.Seminario avanzado I\Proyectos2020\AccesoDatos\obj\Debug\AccesoDatos.vbprojAssemblyReference.cache
+E:\2020\USS_2020_2\1.Seminario avanzado I\Proyectos2020\AccesoDatos\obj\Debug\AccesoDatos.FrmGestionClientes.resources
+E:\2020\USS_2020_2\1.Seminario avanzado I\Proyectos2020\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+E:\2020\USS_2020_2\1.Seminario avanzado I\Proyectos2020\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+E:\2020\USS_2020_2\1.Seminario avanzado I\Proyectos2020\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+E:\2020\USS_2020_2\1.Seminario avanzado I\Proyectos2020\AccesoDatos\bin\Debug\AccesoDatos.exe.config
+E:\2020\USS_2020_2\1.Seminario avanzado I\Proyectos2020\AccesoDatos\bin\Debug\AccesoDatos.exe
+E:\2020\USS_2020_2\1.Seminario avanzado I\Proyectos2020\AccesoDatos\bin\Debug\AccesoDatos.pdb
+E:\2020\USS_2020_2\1.Seminario avanzado I\Proyectos2020\AccesoDatos\bin\Debug\AccesoDatos.xml
+E:\2020\USS_2020_2\1.Seminario avanzado I\Proyectos2020\AccesoDatos\obj\Debug\AccesoDatos.exe
+E:\2020\USS_2020_2\1.Seminario avanzado I\Proyectos2020\AccesoDatos\obj\Debug\AccesoDatos.xml
+E:\2020\USS_2020_2\1.Seminario avanzado I\Proyectos2020\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\ARGOS\Documents\Anibal\USS\2020-II\Seminario I\TareaCRUD\AccesoDatos\bin\Debug\AccesoDatos.exe.config
+C:\Users\ARGOS\Documents\Anibal\USS\2020-II\Seminario I\TareaCRUD\AccesoDatos\bin\Debug\AccesoDatos.exe
+C:\Users\ARGOS\Documents\Anibal\USS\2020-II\Seminario I\TareaCRUD\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\ARGOS\Documents\Anibal\USS\2020-II\Seminario I\TareaCRUD\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\ARGOS\Documents\Anibal\USS\2020-II\Seminario I\TareaCRUD\AccesoDatos\obj\Debug\AccesoDatos.vbprojAssemblyReference.cache
+C:\Users\ARGOS\Documents\Anibal\USS\2020-II\Seminario I\TareaCRUD\AccesoDatos\obj\Debug\AccesoDatos.FrmGestionClientes.resources
+C:\Users\ARGOS\Documents\Anibal\USS\2020-II\Seminario I\TareaCRUD\AccesoDatos\obj\Debug\AccesoDatos.frmNuevocliente.resources
+C:\Users\ARGOS\Documents\Anibal\USS\2020-II\Seminario I\TareaCRUD\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\ARGOS\Documents\Anibal\USS\2020-II\Seminario I\TareaCRUD\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\ARGOS\Documents\Anibal\USS\2020-II\Seminario I\TareaCRUD\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\ARGOS\Documents\Anibal\USS\2020-II\Seminario I\TareaCRUD\AccesoDatos\obj\Debug\AccesoDatos.exe
+C:\Users\ARGOS\Documents\Anibal\USS\2020-II\Seminario I\TareaCRUD\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\ARGOS\Documents\Anibal\USS\2020-II\Seminario I\TareaCRUD\AccesoDatos\obj\Debug\AccesoDatos.pdb
